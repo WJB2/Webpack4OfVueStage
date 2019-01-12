@@ -1,6 +1,6 @@
 <template>
     <div id="app">
-        <img :src="backgroundUrl" alt="" width=200 height=200 />
+        <router-view />
     </div>
 </template>
 
